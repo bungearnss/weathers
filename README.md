@@ -1,6 +1,6 @@
 # weathers_app
 
-Weather Application that can show the weather in the user's location. It also selects the area by searching and selecting the location using the googlemap api. The user also save the desired location,=.
+Weather Application that can show the weather in the user's location. It also selects the area by searching and selecting the location using the googlemap api. The user also save the desired location.
 
 ## Getting Started
 
